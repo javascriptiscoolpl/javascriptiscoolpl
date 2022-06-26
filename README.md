@@ -1,16 +1,14 @@
-### Hi there 👋
+### javascript.iscool.pl
 
-<!--
-**javascriptiscoolpl/javascriptiscoolpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the past the domain **iscool.pl** was free hosting and I had blog there at sub-domain **javascript**, my private one related to my JavaScript language learning. But this domain **iscool.pl** is no longer hosting service, so I had been kicked out. 
 
-Here are some ideas to get you started:
+The domain **iscool.pl** or any sub-domain is not related to me. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My accounts related to the past JavaScript activity are only:**
+
+* [npmjs.com/~javascript.iscool.pl](https://www.npmjs.com/~javascript.iscool.pl)
+* [codewars.com/users/darekl](https://www.codewars.com/users/darekl)
+
+### My current activity:
+
+My current activity has been moved to [github.com/dprojects](https://github.com/dprojects) and this is mostly related to [FreeCAD Woodworking](https://github.com/dprojects/Woodworking). 
